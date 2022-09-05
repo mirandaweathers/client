@@ -1,0 +1,18 @@
+th {
+    color: white;
+    background-color: rgb(156, 108, 156);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+}
+
+tr {
+    
+}
+
+td {
+    text-align: left;
+    padding: 5px 5px 5px 5px;
+}
